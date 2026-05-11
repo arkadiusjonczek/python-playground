@@ -1,0 +1,8 @@
+def main():
+    fruits = {"apple", "banana", "cherry"}
+
+    for fruit in fruits:
+        print(fruit)
+
+if __name__ == "__main__":
+    main()
