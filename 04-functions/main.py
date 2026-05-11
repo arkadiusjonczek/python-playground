@@ -1,5 +1,3 @@
-import sys
-
 def main():
     try:
         name = input("Enter your name: ")
